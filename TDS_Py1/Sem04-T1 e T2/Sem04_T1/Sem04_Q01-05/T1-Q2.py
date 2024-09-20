@@ -1,0 +1,10 @@
+a = 3
+b = 5
+c = 13
+resultado = a+b+c//3
+a1 = 4
+b1 = 5
+c1 = 10
+resultado1 = a1+b1+c1//3
+print = ("Média:", resultado)
+print = ("Média:", resultado1)
